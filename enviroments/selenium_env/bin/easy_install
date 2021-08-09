@@ -1,4 +1,4 @@
-#!/Users/karina/Desktop/final-project/enviroments/selenium_env/bin/python3
+#!/Users/karina/Desktop/final-project-new/selenium_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
